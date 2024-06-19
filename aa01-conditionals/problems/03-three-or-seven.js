@@ -60,6 +60,8 @@ console.log(threeOrSeven(-42)); // => 21
 console.log(threeOrSeven(100)); // => 100
 console.log(threeOrSeven(0));   // => 0
 console.log(threeOrSeven(-20)); // => -20
+console.log(threeOrSeven(-21));  // => -21
+
 
 /******************** DO NOT MODIFY ANY CODE BELOW THIS LINE *****************/
 module.exports = threeOrSeven;
